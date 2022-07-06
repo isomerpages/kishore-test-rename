@@ -1,0 +1,4 @@
+---
+title: Sample
+permalink: /Sample
+---
