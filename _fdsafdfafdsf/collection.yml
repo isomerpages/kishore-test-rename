@@ -2,4 +2,5 @@ collections:
   fdsafdfafdsf:
     output: true
     order:
+      - privacy.md
       - faq.md
