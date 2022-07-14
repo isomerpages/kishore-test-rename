@@ -1,4 +1,5 @@
 collections:
   asdad:
     output: true
-    order: []
+    order:
+      - Sample.md
