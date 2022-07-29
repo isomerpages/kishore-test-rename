@@ -1,5 +1,0 @@
-collections:
-  test1:
-    output: true
-    order:
-      - Test2/.keep
