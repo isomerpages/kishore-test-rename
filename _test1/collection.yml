@@ -1,4 +1,5 @@
 collections:
   test1:
     output: true
-    order: []
+    order:
+      - Test1/.keep
