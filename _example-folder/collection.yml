@@ -1,5 +1,0 @@
-collections:
-  example-folder:
-    output: true
-    order:
-      - Example Title.md
