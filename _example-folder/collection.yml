@@ -1,4 +1,5 @@
 collections:
   example-folder:
     output: true
-    order: []
+    order:
+      - Example subfolder/.keep
