@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /content/permalink
+permalink: /content/permalink/
 description: ""
 ---
-
+dsdfsafsdafdsfsdafsfdsafdsf
