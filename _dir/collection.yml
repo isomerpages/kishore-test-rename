@@ -1,4 +1,5 @@
 collections:
   dir:
     output: true
-    order: []
+    order:
+      - Content.md
