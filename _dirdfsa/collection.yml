@@ -2,4 +2,5 @@ collections:
   dirdfsa:
     output: true
     order:
+      - Dfsfdsgfdsg/.keep
       - Content.md
