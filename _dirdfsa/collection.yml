@@ -2,6 +2,5 @@ collections:
   dirdfsa:
     output: true
     order:
-      - Dfsfdsgfdsg/Example Title.md
       - Dfsfdsgfdsg/.keep
       - Content.md
