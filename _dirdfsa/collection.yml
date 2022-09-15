@@ -1,5 +1,5 @@
 collections:
-  dir:
+  dirdfsa:
     output: true
     order:
       - Content.md
