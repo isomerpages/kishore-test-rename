@@ -1,7 +1,0 @@
-collections:
-  dirdfsa:
-    output: true
-    order:
-      - Example Title.md
-      - Dfsfdsgfdsg/.keep
-      - Content.md
