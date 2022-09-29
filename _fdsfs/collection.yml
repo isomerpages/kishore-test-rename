@@ -2,5 +2,6 @@ collections:
   fdsfs:
     output: true
     order:
+      - வணக்கம்.md
       - Example Titledfsadfsadsad.md
       - Example Title.md
