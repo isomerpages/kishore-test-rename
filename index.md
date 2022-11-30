@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Jackson is hot
+      title: Jackson is good looking
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
