@@ -2,6 +2,7 @@ collections:
   fdsfs:
     output: true
     order:
+      - Redirectedlink/.keep
       - LINKWITHCAPS/Example Titledfsadfsadsad.md
       - LINKWITHCAPS/.keep
       - Dsfasdgfdgfds/Example Titlefsaf.md
