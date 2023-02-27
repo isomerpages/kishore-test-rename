@@ -1,8 +1,6 @@
 ---
 title: Example Title
-permalink: /THISLINKHASCAPS/
+permalink: /thislinkhascaps/
 description: ""
 third_nav_title: Redirectedlink
 ---
-
-
