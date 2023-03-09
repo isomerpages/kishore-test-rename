@@ -6,3 +6,8 @@ links:
     url: /Sample/
   - title: Menu Title
     collection: fdsfs
+  - title: test
+    url: /fdsfs/LINKWITHCAPS/permalink/
+    sublinks:
+      - title: Submenu Title
+        url: fdsfs/LINKWITHCAPS/permalink/
