@@ -2,6 +2,7 @@ collections:
   fdsfs:
     output: true
     order:
+      - Rdghggfg/Example Title.md
       - Rdghggfg/.keep
       - Example Titlegfd.md
       - Redirectedlink/.keep
