@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Title
-description: An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government lol
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -25,12 +25,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: <div class="home-video"><iframe width="997" height="561"
-        src="https://www.youtube.com/embed/hlWiI4xVXKY" title="Beautiful
-        Relaxing Music • Peaceful Piano Music & Guitar Music | Sunny Mornings by
-        Peder B. Helland" frameborder="0" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe></div>
+      description: <div class="home-video"></div>
       button: Button text
       url: /faq/
   - infobar:
