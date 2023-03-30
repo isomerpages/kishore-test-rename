@@ -2,11 +2,11 @@ collections:
   fdsfs:
     output: true
     order:
-      - Example Title.md
-      - Redirectedlink/Example Title.md
       - Redirectedlink/.keep
-      - LINKWITHCAPS/PAGEWITHCAPS.md
+      - Redirectedlink/Example Title.md
       - LINKWITHCAPS/.keep
+      - LINKWITHCAPS/PAGEWITHCAPS.md
+      - Dsfasdgfdgfds/.keep
       - Dsfasdgfdgfds/Example Titlefsaf.md
       - Dsfasdgfdgfds/Example Title.md
-      - Dsfasdgfdgfds/.keep
+      - Example Title.md
