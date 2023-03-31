@@ -8,6 +8,3 @@ fdsfadsfdsafdsfd
 dsfdsagdsagfdgfd
 fdsgfdsg
 
-    script&gt;
-    window.alert("Hello, world!");
-    
