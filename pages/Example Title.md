@@ -19,6 +19,3 @@ fdsfdsaf
 
 gfdsgfd
 sdf
-
-    script&gt;
-    window.alert("Hello, world!");
