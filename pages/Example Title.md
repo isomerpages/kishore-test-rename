@@ -4,5 +4,7 @@ permalink: /wehaveredirected/
 description: ""
 ---
 this is some page content
-<div>
+<div>    script&gt;
+    window.alert("Hello, world!");
+    
             </div>
