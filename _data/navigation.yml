@@ -4,10 +4,3 @@ links:
     collection: fdsfs
   - title: Resource Room
     resource_room: true
-  - title: Single page
-    url: /fdsfs/LINKWITHCAPS/permalink
-  - title: SubMenu
-    url: /fdsfs/LINKWITHCAPS/permalink/
-    sublinks:
-      - title: Submenu Title
-        url: /fdsfs/LINKWITHCAPS/permalink/
