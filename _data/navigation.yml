@@ -4,3 +4,8 @@ links:
     collection: fdsfs
   - title: Resource Room
     resource_room: true
+  - title: Menu Title
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
