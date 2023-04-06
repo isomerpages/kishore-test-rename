@@ -14,7 +14,7 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-        description: ""
+        description: <script>alert("hi")</script>
     maps_link: ""
     title: Main Office
   - address:
