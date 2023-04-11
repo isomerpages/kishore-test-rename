@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government lol
 image: /images/isomer-logo.svg
 permalink: /
-notification: dafadsfdsfdsafdsafdasf
+notification: ---
 sections:
   - hero:
       title: TESTESTESTESTES
