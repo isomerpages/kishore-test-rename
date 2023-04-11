@@ -4,10 +4,10 @@ title: Title
 description: An Isomer site of the Singapore Government lol
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: dafadsfdsfdsafdsafdasf
 sections:
   - hero:
-      title: testestestrs
+      title: TESTESTESTESTES
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
