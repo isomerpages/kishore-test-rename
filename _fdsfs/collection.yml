@@ -2,7 +2,7 @@ collections:
   fdsfs:
     output: true
     order:
-      - New Lorem Ipsum.md
+      - "''''.md"
       - Rdghggfg/Example Title.md
       - Rdghggfg/.keep
       - Example Titlegfd.md
