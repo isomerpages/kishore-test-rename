@@ -2,7 +2,7 @@ collections:
   fdsfs:
     output: true
     order:
-      - "''''.md"
+      - "&&&&&&&&&&&.md"
       - Rdghggfg/Example Title.md
       - Rdghggfg/.keep
       - Example Titlegfd.md
