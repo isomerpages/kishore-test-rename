@@ -28,4 +28,10 @@ sections:
       button: Be a builder
       url: /builder
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: <h2><h>fe
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
