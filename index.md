@@ -9,7 +9,7 @@ sections:
   - hero:
       title: <h1>"Build for Good"</h1>
       subtitle: Hero subtitle
-      background: /images/isomer-logo.svg
+      background: /images/doggo (with sapce and bracket).jpeg
       dropdown:
         title: <h1>sup</h1>
         options: []
