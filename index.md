@@ -10,25 +10,4 @@ sections:
       subtitle: Hero subtitle
       background: /images/doggo (with sapce and bracket).jpeg
       url: /contact-us
-  - infobar:
-      title: "Reimagine a better Singapore "
-      description: "Build for Good is for the ones who are willing to get their hands
-        dirty to make Singapore better. "
-      button: about build for good
-      url: /about
-  - infopic:
-      title: Big or small, let’s get building.
-      subtitle: Infopic Subtitle
-      description: We will provide you with the necessary support you need — from
-        mentorship, workshops to funding. You just need to focus on solving the
-        problem at hand.
-      url: /builder
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: <h2><h>fe
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-      image: /images/doggo (with sapce and bracket).jpeg
 ---
