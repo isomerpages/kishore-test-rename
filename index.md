@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "--- "
+      title: hehe 
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
