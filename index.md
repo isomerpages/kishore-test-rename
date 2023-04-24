@@ -37,6 +37,6 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      image: /images/doggo.png
+      image: /images/Dir1/doggo1.png
       alt: Image alt text
 ---
