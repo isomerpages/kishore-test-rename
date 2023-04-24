@@ -11,7 +11,7 @@ sections:
       subtitle: Hero subtitle
       background: /images/isomer-logo.svg
       dropdown:
-        title: Hero Dropdown Title
+        title: <h1>sup</h1>
         options: []
   - infobar:
       title: "Reimagine a better Singapore "
