@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: hi <script>alert("hi");</script>TESTESTESTESTES
+      title: "--- "
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
