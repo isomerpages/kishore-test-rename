@@ -23,12 +23,6 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: <div class="home-video"></div>
-      button: Button text
-      url: /faq/
-  - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: Infobar description
