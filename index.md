@@ -32,4 +32,11 @@ sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/doggo.png
+      alt: Image alt text
 ---
