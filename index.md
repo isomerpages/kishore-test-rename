@@ -10,9 +10,6 @@ sections:
       title: <h1>"Build for Good"</h1>
       subtitle: Hero subtitle
       background: /images/doggo (with sapce and bracket).jpeg
-      dropdown:
-        title: <h1>sup</h1>
-        options: []
   - infobar:
       title: "Reimagine a better Singapore "
       description: "Build for Good is for the ones who are willing to get their hands
