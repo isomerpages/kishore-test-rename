@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: <h1>"Build for Good"</h1>
       subtitle: Hero subtitle
       background: /images/doggo (with sapce and bracket).jpeg
       url: /contact-us
@@ -23,7 +22,6 @@ sections:
       description: We will provide you with the necessary support you need — from
         mentorship, workshops to funding. You just need to focus on solving the
         problem at hand.
-      button: Be a builder
       url: /builder
       alt: Image alt text
   - infopic:
