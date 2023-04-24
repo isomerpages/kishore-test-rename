@@ -34,4 +34,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/doggo (with sapce and bracket).jpeg
 ---
