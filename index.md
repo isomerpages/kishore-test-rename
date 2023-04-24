@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: <h1>Build for Good</h1>
+      title: <h1>"Build for Good"</h1>
       subtitle: Hero subtitle
       background: /images/isomer-logo.svg
       dropdown:
