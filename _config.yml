@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://kishore-test-staging.netlify.app
 prod: https://kishore-test-prod.netlify.app
-shareicon: /images/doggo.png
+shareicon: /images/doggo4.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
