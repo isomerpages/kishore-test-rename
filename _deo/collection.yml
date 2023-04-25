@@ -2,6 +2,7 @@ collections:
   deo:
     output: true
     order:
+      - Dudu/Example Title.md
       - Dudu/.keep
       - Huhu/Example Title.md
       - Huhu/.keep
