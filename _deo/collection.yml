@@ -2,6 +2,7 @@ collections:
   deo:
     output: true
     order:
+      - Hash#/.keep
       - Huhu/Example Title.md
       - Huhu/.keep
       - Example Title.md
