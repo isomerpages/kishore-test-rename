@@ -2,7 +2,6 @@ collections:
   deo:
     output: true
     order:
-      - Empru/.keep
       - "Hash#/Example Title ####.md"
       - Hash#/.keep
       - Huhu/Example Title.md
