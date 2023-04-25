@@ -1,4 +1,5 @@
 collections:
   deo:
     output: true
-    order: []
+    order:
+      - sadsad.md
