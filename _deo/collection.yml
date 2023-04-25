@@ -2,4 +2,5 @@ collections:
   deo:
     output: true
     order:
+      - Hi/.keep
       - sadsad.md
