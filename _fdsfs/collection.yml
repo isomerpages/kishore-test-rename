@@ -2,10 +2,10 @@ collections:
   fdsfs:
     output: true
     order:
-      - "&&&&&&&&&&&.md"
-      - Rdghggfg/Example Title.md
       - Rdghggfg/.keep
+      - Rdghggfg/Example Title.md
       - Example Titlegfd.md
+      - "&&&&&&&&&&&.md"
       - Redirectedlink/.keep
       - Redirectedlink/Example Title.md
       - LINKWITHCAPS/.keep
