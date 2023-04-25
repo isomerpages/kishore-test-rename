@@ -2,5 +2,6 @@ collections:
   test:
     output: true
     order:
+      - Empty/.keep
       - Folder1/Example Title.md
       - Folder1/.keep
