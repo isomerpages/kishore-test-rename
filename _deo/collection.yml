@@ -2,5 +2,6 @@ collections:
   deo:
     output: true
     order:
+      - Example Title.md
       - Hi/sadsad.md
       - Hi/.keep
