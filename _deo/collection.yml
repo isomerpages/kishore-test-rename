@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Haha/.keep
-      - Example Title.md
       - Hehe/sadsad.md
       - Hehe/.keep
