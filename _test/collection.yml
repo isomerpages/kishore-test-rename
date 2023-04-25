@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Empty/.keep
       - Folder1/Example Title.md
       - Folder1/.keep
