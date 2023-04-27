@@ -1,6 +1,6 @@
 ---
 title: PAGEWITHCAPS
-permalink: /fdsfs/LINKWITHCAPS/permalink/
+permalink: /fdsfs/linkwithcaps/permalink/
 description: ""
 third_nav_title: LINKWITHCAPS
 ---

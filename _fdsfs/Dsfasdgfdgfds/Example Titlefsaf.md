@@ -1,6 +1,6 @@
 ---
 title: Example Titlefsaf
-permalink: /fdsfs/Dsfasdgfdgfds/permalink/
+permalink: /fdsfs/dsfasdgfdgfds/permalink/
 description: ""
 third_nav_title: Dsfasdgfdgfds
 ---
