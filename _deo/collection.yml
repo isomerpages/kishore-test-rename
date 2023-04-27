@@ -1,0 +1,7 @@
+collections:
+  deo:
+    output: true
+    order:
+      - Huhu/Example Title.md
+      - Huhu/.keep
+      - Example Title.md

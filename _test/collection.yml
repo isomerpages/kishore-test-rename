@@ -1,0 +1,7 @@
+collections:
+  test:
+    output: true
+    order:
+      - Example Title.md
+      - Folder1/Example Title.md
+      - Folder1/.keep

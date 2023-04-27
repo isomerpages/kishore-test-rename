@@ -1,6 +1,11 @@
 logo: /images/favicon-isomer.ico
 links:
-  - title: asdadfdsfjsdgkjdslgdsf
-    url: /contact-us/
-  - title: asdadfdsfjsdgkjdslgfdsgfd
-    url: /Sample/
+  - title: Folder
+    collection: fdsfs
+  - title: Resource Room
+    resource_room: true
+  - title: Menu Title
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []

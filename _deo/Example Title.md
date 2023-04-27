@@ -1,7 +1,5 @@
 ---
 title: Example Title
-permalink: /permalink/
+permalink: /deo/permalink/
 description: ""
 ---
-
-<p></p>
