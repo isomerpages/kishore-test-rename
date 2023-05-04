@@ -1,5 +1,5 @@
 collections:
-  test:
+  testy:
     output: true
     order:
       - Example Title.md
