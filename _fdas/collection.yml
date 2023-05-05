@@ -1,4 +1,5 @@
 collections:
   fdas:
     output: true
-    order: []
+    order:
+      - Example Title & something.md
