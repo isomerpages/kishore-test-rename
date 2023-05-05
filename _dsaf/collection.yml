@@ -2,5 +2,5 @@ collections:
   dsaf:
     output: true
     order:
-      - Example Titlesdaf.md
       - Example Title.md
+      - Example Titlesdaf.md
