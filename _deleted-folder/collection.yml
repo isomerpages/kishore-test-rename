@@ -1,5 +1,0 @@
-collections:
-  deleted-folder:
-    output: true
-    order:
-      - hehe.md
