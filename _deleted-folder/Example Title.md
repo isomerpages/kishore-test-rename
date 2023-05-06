@@ -3,4 +3,4 @@ title: Example Title
 permalink: /deleted-folder/permalink/
 description: ""
 ---
-hi my name is jonny
+hi my name is 
