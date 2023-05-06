@@ -1,5 +1,4 @@
 collections:
   deleted-folder:
     output: true
-    order:
-      - Example Title.md
+    order: []
