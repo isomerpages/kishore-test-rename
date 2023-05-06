@@ -1,5 +1,0 @@
-collections:
-  deleted-folder:
-    output: true
-    order:
-      - deleted page.md
