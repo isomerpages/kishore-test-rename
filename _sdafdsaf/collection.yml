@@ -1,4 +1,5 @@
 collections:
   sdafdsaf:
     output: true
-    order: []
+    order:
+      - Fdsafdsaf/.keep
