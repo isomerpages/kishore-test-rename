@@ -1,4 +1,5 @@
 collections:
   deleted:
     output: true
-    order: []
+    order:
+      - Fdasfds/.keep
