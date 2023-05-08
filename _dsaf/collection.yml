@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Deletethis/.keep
-      - Example Title.md
       - Example Titlesdaf.md
