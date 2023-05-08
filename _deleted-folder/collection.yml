@@ -1,6 +1,0 @@
-collections:
-  deleted-folder:
-    output: true
-    order:
-      - Fdsafdsaf/.keep
-      - Example Title.md
