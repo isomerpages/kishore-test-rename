@@ -1,6 +1,6 @@
 collections:
-  dsaf:
+  deleted-folder:
     output: true
     order:
+      - Fdsafdsaf/.keep
       - Example Title.md
-      - Example Titlesdaf.md

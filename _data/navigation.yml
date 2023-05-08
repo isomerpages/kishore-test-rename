@@ -2,7 +2,7 @@ logo: /images/favicon-isomer.ico
 links:
   - title: Folder
     collection: fdsfs
-  - title: Resource Room
+  - title: Events
     resource_room: true
   - title: Menu Title
     url: /permalink

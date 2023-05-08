@@ -1,6 +1,6 @@
 collections:
-  dsaf:
+  fdas:
     output: true
     order:
       - Example Title.md
-      - Example Titlesdaf.md
+      - Example Title & something.md
