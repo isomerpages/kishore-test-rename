@@ -1,4 +1,5 @@
 collections:
   deletd:
     output: true
-    order: []
+    order:
+      - Example Titlefeawf.md
