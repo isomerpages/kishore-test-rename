@@ -1,6 +1,4 @@
 collections:
   fdsfdsdsf:
     output: true
-    order:
-      - Ge/Example Title.md
-      - Ge/.keep
+    order: []
