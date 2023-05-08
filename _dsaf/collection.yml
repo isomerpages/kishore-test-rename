@@ -2,5 +2,6 @@ collections:
   dsaf:
     output: true
     order:
+      - Deletethis/Example Title.md
       - Deletethis/.keep
       - Example Titlesdaf.md
