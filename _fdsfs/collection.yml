@@ -4,6 +4,7 @@ collections:
     order:
       - Example Titlegfd.md
       - "&&&&&&&&&&&.md"
+      - Redirectedlink/Example Titlefdsafd.md
       - Redirectedlink/.keep
       - Redirectedlink/Example Title.md
       - LINKWITHCAPS/.keep
