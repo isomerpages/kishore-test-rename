@@ -1,6 +1,5 @@
 ---
 title: Example Title
-permalink: /dsaf/permalink/
+permalink: /fdsafdsafdsa/permalink/
 description: ""
 ---
-fdsf

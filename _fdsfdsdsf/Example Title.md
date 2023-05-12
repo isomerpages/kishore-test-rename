@@ -1,5 +1,5 @@
 ---
 title: Example Title
-permalink: /fdas/permalink/
+permalink: /fdsfdsdsf/permalink/
 description: ""
 ---

@@ -1,6 +1,0 @@
-collections:
-  fdas:
-    output: true
-    order:
-      - Example Title.md
-      - Example Title & something.md
