@@ -3,4 +3,4 @@ title: dsaadsfExample Title
 permalink: /permalink/
 description: ""
 ---
-fdsafdsafdsaf MAKING SOME CHANGEs
+fdsafdsafdsaf MAKING SOME CHANGE
