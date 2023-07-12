@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government lol
+description: An Isomer site of the Singapore Government lofdsafadsfl
 permalink: none
 baseurl: ""
 exclude:
@@ -57,4 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: events
-google_analytics_ga4: hehe
+google_analytics_ga4: ""
