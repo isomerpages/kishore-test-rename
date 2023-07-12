@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Titles
-description: An Isomer site of the Singapore Government lol
+description: An Isomer site of the Singapore Government lofdsafadsfl
 image: /images/doggo4.png
 permalink: /
 notification: hehe
