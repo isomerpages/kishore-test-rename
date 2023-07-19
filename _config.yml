@@ -15,10 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "An Isomer site of the Singapore Government
-  lofdsafadsflfdsafdasfdsafdhhhhhhhhhhhhhhkkkkkkkkklklklkldsafsdaffdsafdsffdsaf\
-  dsaffdsfsdfdasfdsafdsafdsfdsafsdfdsafdsfdsafdsafdsafdsafdsfasdffdsf
-  dsafdsafdasfdsaf dfasdfdasf "
+description: An Isomer site of the Singapore Government
+  lofdsafadsflfdsafdasfdsafdhhhhhhhhhhhhhhkkkkkkkkklklklkldsafsdaffdsafdsffdsafdsaffdsfsdfdasfdsafdsafdsfdsafsdfdsafdsfdsafdsafdsafdsafdsfasdffdsf
+  dsafdsafdasfdsaf dfasdfdasffdsafdsf
 permalink: none
 baseurl: ""
 exclude:
