@@ -15,11 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: |-
+description: |+
   fdsafsd
 
-
-  sadfdsf
 permalink: none
 baseurl: ""
 exclude:
