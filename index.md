@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Titles
-description: fdsafsdfdsaf
+description: fdsafsdfdsaffdsaf
 image: /images/doggo4.png
 permalink: /
 notification: hehe
