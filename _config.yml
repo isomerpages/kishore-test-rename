@@ -1,4 +1,4 @@
-title: Titles
+title: Title
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: fdsafsdfdsaffdsafsadfdsaf
+description: An Isomer site of the Singapore Government lol
 permalink: none
 baseurl: ""
 exclude:
