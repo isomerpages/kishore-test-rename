@@ -1,6 +1,6 @@
 ---
 title: Example Titlefdsafd
-permalink: /some-link-with's-quote/
+permalink: /fdsfs/redirectedlink/permalink/
 description: ""
 third_nav_title: Redirectedlink
 ---
