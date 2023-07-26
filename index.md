@@ -4,7 +4,7 @@ title: Titles
 description: fdsafsdfdsaffdsafsadfdsaf
 image: /images/doggo4.png
 permalink: /
-notification: hehe
+notification: hehefsdafads
 sections:
   - hero:
       subtitle: Hero subtitle
