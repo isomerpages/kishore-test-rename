@@ -14,3 +14,8 @@ The document <a href="/files/use of residential and non-residential addresses.pd
 
 
 A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/info.pdf).
+
+
+
+* <a href="/files/AppointedBanks2023.pdf/">List of Appointed Banks</a> (39.5KB) <i>[Updated 28 Mar 2023]</i>
+This is a listing of banks with which law practices can open Conveyancing or Conveyancing (CPF) Accounts.
