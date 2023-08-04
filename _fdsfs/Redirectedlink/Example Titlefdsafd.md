@@ -13,4 +13,4 @@ The document <a href="/files/Use of Residential and Non-Residential addresses.pd
 5. The proposed Constitution of the Republic of Singapore (Amendment) Bill is found at [Annex A](/files/140407_SICC_Annex_A.PDF){:target="_blank"}.
 
 
-A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/realign/example.pdf).
+A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/info.pdf).
