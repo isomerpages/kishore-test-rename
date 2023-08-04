@@ -17,5 +17,7 @@ A **2-week Objection Period** starts after the end of the **4-week Negotiation P
 
 
 
-* <a href="/files/AppointedBanks2023.pdf/">List of Appointed Banks</a> (39.5KB) <i>[Updated 28 Mar 2023]</i>
+* <a href="/files/appointedbanks2023.pdf">List of Appointed Banks</a> (39.5KB) <i>[Updated 28 Mar 2023]</i>
 This is a listing of banks with which law practices can open Conveyancing or Conveyancing (CPF) Accounts.
+
+[Annex D: Legal Profession (Amendment) Bill 2014](/files/140407_sicc_annex_d.pdf){:target="_blank"}(710KB)<br>
