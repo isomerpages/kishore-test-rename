@@ -1,8 +1,8 @@
-title: Test Site Title
+title: Title
 url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#271053"
+  primary-color: "#6f24ff"
   secondary-color: "#923f3f"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: This is an Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
