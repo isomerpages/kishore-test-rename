@@ -2,7 +2,6 @@ collections:
   test-folder:
     output: true
     order:
-      - Zhong Jun.md
       - Harish.md
       - Qilu.md
       - Alex.md
