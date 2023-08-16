@@ -1,5 +1,5 @@
 collections:
-  fdsaf:
+  rename-test:
     output: true
     order:
       - Example Title.md
