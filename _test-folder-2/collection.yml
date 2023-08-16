@@ -1,4 +1,5 @@
 collections:
   test-folder-2:
     output: true
-    order: []
+    order:
+      - Rename Page Test.md
