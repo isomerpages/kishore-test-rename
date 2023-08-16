@@ -2,6 +2,7 @@ collections:
   test-folder-4:
     output: true
     order:
+      - Subfolder Test/Ungrouped Page 1.md
       - Subfolder Test/Ungrouped Page 2.md
       - Subfolder Test/.keep
       - Rename Page Test.md
