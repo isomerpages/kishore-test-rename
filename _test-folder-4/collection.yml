@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Subfolder Test/.keep
-      - Ungrouped Page 2.md
       - Ungrouped Page 1.md
       - Rename Page Test.md
