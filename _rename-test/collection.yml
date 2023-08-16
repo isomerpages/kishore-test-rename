@@ -2,4 +2,5 @@ collections:
   rename-test:
     output: true
     order:
+      - Subfolder Test/Rename Page Test.md
       - Subfolder Test/.keep
