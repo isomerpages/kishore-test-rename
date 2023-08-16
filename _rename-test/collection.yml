@@ -2,4 +2,4 @@ collections:
   rename-test:
     output: true
     order:
-      - Example Title.md
+      - Rename Page Test.md
