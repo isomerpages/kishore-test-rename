@@ -2,4 +2,5 @@ collections:
   test-folder:
     output: true
     order:
+      - Qilu.md
       - Alex.md
