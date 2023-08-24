@@ -1,0 +1,8 @@
+collections:
+  test-folder-4:
+    output: true
+    order:
+      - Subfolder Test 2/Rename Page Test.md
+      - Subfolder Test 2/Ungrouped Page 1.md
+      - Subfolder Test 2/Ungrouped Page 2.md
+      - Subfolder Test 2/.keep

@@ -1,0 +1,7 @@
+collections:
+  test-folder:
+    output: true
+    order:
+      - Harish.md
+      - Qilu.md
+      - Alex.md
