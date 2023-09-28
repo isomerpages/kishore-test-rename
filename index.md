@@ -40,4 +40,22 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - textcards:
+      title: dasdsadasdsaText Cards
+      subtitle: Add informational textadasdsa
+      id: textcards
+      description: Text card descriptiondsadsad
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
