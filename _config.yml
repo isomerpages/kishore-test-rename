@@ -2,7 +2,7 @@ title: Title
 url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6f24ff"
+  primary-color: "#9b9b9b"
   secondary-color: "#923f3f"
   media-colors:
     - title: media-color-one
