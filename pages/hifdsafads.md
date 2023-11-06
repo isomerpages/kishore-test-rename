@@ -2,5 +2,6 @@
 title: hifdsafads
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
-fdsafdf
+fdsafdfasdf
