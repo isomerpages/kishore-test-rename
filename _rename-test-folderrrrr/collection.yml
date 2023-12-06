@@ -2,6 +2,6 @@ collections:
   rename-test-folderrrrr:
     output: true
     order:
+      - hihihih.md
       - Subfolder Test/.keep
       - Subfolder Test/creation of page.md
-      - hihihih.md
