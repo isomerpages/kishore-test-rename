@@ -2,4 +2,5 @@ collections:
   rename-test:
     output: true
     order:
+      - hihihih.md
       - Subfolder Test/.keep
