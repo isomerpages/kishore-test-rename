@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.hehe.amplifyapp.com/
 prod: https://master.hehe.amplifyapp.com/
 shareicon: /images/doggo4.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
