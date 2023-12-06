@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - hihihih.md
+      - Subfolder Test/creation of page.md
       - Subfolder Test/.keep
