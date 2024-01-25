@@ -119,7 +119,8 @@ description: ""
     </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="dsafsdf" src="/images/jkhjkhjkhjhjk.png">
+    <img style="width: 100%" height="auto" width="100%" alt="dsfdf" src="/images/pexels_frans_van_heerden_631317.jpg">
 </div>
 <p></p>
