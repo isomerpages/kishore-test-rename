@@ -58,4 +58,4 @@ description: ""
 </tbody>
 </table>
 <p>Click on the editor to try it out yourself!</p>
-<p>wow very cool</p>
+<p>wow very cool!</p>
