@@ -9,3 +9,5 @@ links:
   - title: Menu Title
     url: /permalink
     sublinks: []
+  - title: accordion
+    url: /example-title
