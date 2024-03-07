@@ -15,4 +15,4 @@ async="true"&gt;&lt;/script&gt;</p>
 <p>Attributes not allowed</p>
 <p>&lt;svg&gt;&lt;script src="/jquery/jquery.min.js" href="THISFILEWILLBELOADED"&gt;&lt;/script&gt;&lt;/svg&gt;</p>
 <p>&lt;svg&gt;&lt;script src="/jquery/jquery.min.js" xlink:href="THISFILEWILLBELOADED"&gt;&lt;/script&gt;&lt;/svg&gt;</p>
-<p></p>
+<p>test</p>
