@@ -4,7 +4,7 @@ title: Title
 description: This is an Isomer site of the Singapore Government
 image: /images/doggo4.png
 permalink: /
-notification: This is a test!
+notification: This is a testing
 sections:
   - hero:
       subtitle: Hero subtitle
