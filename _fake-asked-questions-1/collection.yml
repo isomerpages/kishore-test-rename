@@ -1,5 +1,5 @@
 collections:
-  fake-asked-questions:
+  fake-asked-questions-1:
     output: true
     order:
       - Fake Asked Questions (FAQ).md
