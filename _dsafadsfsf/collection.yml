@@ -2,4 +2,5 @@ collections:
   dsafadsfsf:
     output: true
     order:
+      - Fake Asked Questions (FAQ).md
       - Example Title.md
