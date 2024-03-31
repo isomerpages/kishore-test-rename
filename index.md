@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Title
-description: This is an Isomer site of the Singapore Government
+description: This is an Isomer site of the Singapore Government test
 image: /images/doggo4.png
 permalink: /
 notification: This is a testing
