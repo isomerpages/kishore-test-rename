@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: This is an Isomer site of the Singapore Government
+description: This is an Isomer site of the Singapore Government test
 permalink: none
 baseurl: ""
 exclude:
