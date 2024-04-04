@@ -12,7 +12,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>qwertyuiop</summary>
+<summary>qwertyuiopa</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
