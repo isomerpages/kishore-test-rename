@@ -1,0 +1,13 @@
+logo: /images/doggo (with sapce and bracket).jpeg
+links:
+  - title: Folder Test
+    collection: fake-asked-questions
+  - title: Events
+    resource_room: true
+  - title: Menu Title
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: accordion
+    url: /example-title

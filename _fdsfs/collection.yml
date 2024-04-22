@@ -1,0 +1,14 @@
+collections:
+  fdsfs:
+    output: true
+    order:
+      - Example Titlegfd.md
+      - "&&&&&&&&&&&.md"
+      - Redirectedlink/Example Titlefdsafd.md
+      - Redirectedlink/.keep
+      - Redirectedlink/Example Title.md
+      - LINKWITHCAPS/.keep
+      - LINKWITHCAPS/PAGEWITHCAPS.md
+      - Dsfasdgfdgfds/.keep
+      - Dsfasdgfdgfds/Example Titlefsaf.md
+      - Dsfasdgfdgfds/Example Title.md
