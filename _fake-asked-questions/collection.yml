@@ -1,0 +1,6 @@
+collections:
+  fake-asked-questions:
+    output: true
+    order:
+      - Fake Asked Questions (FAQ).md
+      - Example Title.md
